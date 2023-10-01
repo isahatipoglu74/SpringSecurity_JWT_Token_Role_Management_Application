@@ -28,16 +28,12 @@ Bu uygulamada Java Spring, Spring Security kullanılarak kullanıcı yetki işle
 # Project Display Image
 <p>
 
-<img src="https://github.com/isahatipoglu74/SpringRest_Eticaret/blob/main/eticaret_images/1.png" width="300" height="250" margin="10" padding="10" style="max-width:100%;"></a>
-<img src="https://github.com/isahatipoglu74/SpringRest_Eticaret/blob/main/eticaret_images/2.png" width="300" height="250" margin="10" padding="10" style="max-width:100%;"></a>
-<img src="https://github.com/isahatipoglu74/SpringRest_Eticaret/blob/main/eticaret_images/3.png" width="300" height="250" margin="10" padding="10" style="max-width:100%;"></a>
-<img src="https://github.com/isahatipoglu74/SpringRest_Eticaret/blob/main/eticaret_images/4.png" width="300" height="250" margin="10" padding="10" style="max-width:100%;"></a>
-<img src="https://github.com/isahatipoglu74/SpringRest_Eticaret/blob/main/eticaret_images/5.png" width="300" height="250" margin="10" padding="10" style="max-width:100%;"></a>
-<img src="https://github.com/isahatipoglu74/SpringRest_Eticaret/blob/main/eticaret_images/6.png" width="300" height="250" margin="10" padding="10" style="max-width:100%;"></a>
-<img src="https://github.com/isahatipoglu74/SpringRest_Eticaret/blob/main/eticaret_images/7.png" width="300" height="250" margin="10" padding="10" style="max-width:100%;"></a>
-<img src="https://github.com/isahatipoglu74/SpringRest_Eticaret/blob/main/eticaret_images/8.png" width="300" height="250" margin="10" padding="10" style="max-width:100%;"></a>
-<img src="https://github.com/isahatipoglu74/SpringRest_Eticaret/blob/main/eticaret_images/9.png" width="300" height="250" margin="10" padding="10" style="max-width:100%;"></a>
-<img src="https://github.com/isahatipoglu74/SpringRest_Eticaret/blob/main/eticaret_images/10.png" width="300" height="250" margin="10" padding="10" style="max-width:100%;"></a>
+<img src="https://github.com/isahatipoglu74/SpringSecurity_JWT_Token_Role_Management_Application/blob/main/jwt_images/jwt_Register.png" width="300" height="250" margin="10" padding="10" style="max-width:100%;"></a>
+<img src="https://github.com/isahatipoglu74/SpringSecurity_JWT_Token_Role_Management_Application/blob/main/jwt_images/jwt_auth.png" width="300" height="250" margin="10" padding="10" style="max-width:100%;"></a>
+<img src="https://github.com/isahatipoglu74/SpringSecurity_JWT_Token_Role_Management_Application/blob/main/jwt_images/product_data.png" width="300" height="250" margin="10" padding="10" style="max-width:100%;"></a>
+<img src="https://github.com/isahatipoglu74/SpringSecurity_JWT_Token_Role_Management_Application/blob/main/jwt_images/note_data.png" width="300" height="250" margin="10" padding="10" style="max-width:100%;"></a>
+
+
 </p>
 
 
