@@ -1,4 +1,4 @@
-# SpringSecurity_JWT_Token_Role_Management_Application
+# SpringSecurity JWT Token ile Role Management Uygulaması
 Bu projede Spring Security alt yapısı kullanılarak kullanıcı authentication ve authorization işlemleri   JWT Token  ile güvenli hale getirilmiştir. Projede veri tabanı altyapısı olarak H2 Database kullanılmıştır.
 
 
